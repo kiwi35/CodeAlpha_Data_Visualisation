@@ -1,0 +1,3 @@
+Subscription Status,Unique_Customers,Customer Share (%),Transaction_Count,Transaction Share (%),Total_Purchase_Amount,Purchase Amount Share (%),Transactions per Customer,Purchase Amount per Customer,Average Transaction Value,Average Quantity per Transaction,Subscribed_Customers,Subscription Rate (%)
+No,2320,70.495290185354,7043,70.43,45854798,70.89821264748977,3.0357758620689657,19764.999137931034,6510.69118273463,1.4236830895925032,0,0.0
+Yes,971,29.504709814646002,2957,29.57,18822147,29.101787352510232,3.0453141091658082,19384.291452111225,6365.284748055462,1.4311802502536355,971,100.0
